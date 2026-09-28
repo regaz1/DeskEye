@@ -1,0 +1,12 @@
+.venv/
+.local/
+models/*.task
+models/*.part
+__pycache__/
+*.pyc
+.build-venv/
+build/
+dist/
+
+*.log
+.pytest_cache/

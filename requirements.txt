@@ -1,0 +1,4 @@
+# Χρησιμοποιούμε ΜΟΝΟ ένα OpenCV wheel: το contrib περιέχει και το βασικό cv2.
+mediapipe==1.0.1
+opencv-contrib-python==5.0.0.93
+Pillow==12.3.0
